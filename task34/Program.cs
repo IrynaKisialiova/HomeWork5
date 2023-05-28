@@ -3,7 +3,7 @@
 // [345, 897, 568, 234] -> 2
 
 Console.WriteLine($"Случайный массив");
-int[] numbers = new int[10];
+int[] numbers = new int[6];
 
 void FillArray(int[] array, int min, int max){
   for (int i = 0; i<array.Length; i++ ){
